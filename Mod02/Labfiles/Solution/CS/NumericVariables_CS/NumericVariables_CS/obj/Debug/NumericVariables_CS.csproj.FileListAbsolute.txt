@@ -1,0 +1,7 @@
+D:\Allfiles\Mod02\Labfiles\Solution\CS\NumericVariables_CS\NumericVariables_CS\bin\Debug\NumericVariables_CS.exe.config
+D:\Allfiles\Mod02\Labfiles\Solution\CS\NumericVariables_CS\NumericVariables_CS\bin\Debug\NumericVariables_CS.exe
+D:\Allfiles\Mod02\Labfiles\Solution\CS\NumericVariables_CS\NumericVariables_CS\bin\Debug\NumericVariables_CS.pdb
+D:\Allfiles\Mod02\Labfiles\Solution\CS\NumericVariables_CS\NumericVariables_CS\obj\Debug\NumericVariables_CS.csproj.AssemblyReference.cache
+D:\Allfiles\Mod02\Labfiles\Solution\CS\NumericVariables_CS\NumericVariables_CS\obj\Debug\NumericVariables_CS.csproj.CoreCompileInputs.cache
+D:\Allfiles\Mod02\Labfiles\Solution\CS\NumericVariables_CS\NumericVariables_CS\obj\Debug\NumericVariables_CS.exe
+D:\Allfiles\Mod02\Labfiles\Solution\CS\NumericVariables_CS\NumericVariables_CS\obj\Debug\NumericVariables_CS.pdb

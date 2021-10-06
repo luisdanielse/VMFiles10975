@@ -1,0 +1,2 @@
+C:\Users\gerryo\Documents\10975A\Source\Allfiles\Mod05\Labfiles\Starter\VB\DebuggingAndExceptionHandling_VB\DebuggingAndExceptionHandling_VB\bin\Debug\DebuggingAndExceptionHandling_VB.exe.config
+F:\Allfiles\Mod05\Labfiles\Starter\VB\DebuggingAndExceptionHandling_VB\DebuggingAndExceptionHandling_VB\bin\Debug\DebuggingAndExceptionHandling_VB.exe.config

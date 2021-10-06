@@ -1,0 +1,6 @@
+F:\Allfiles\Mod05\Labfiles\Solution\CS\DebugginAndExceptionHandling_CS\DebugginAndExceptionHandling_CS\bin\Debug\DebugginAndExceptionHandling_CS.exe.config
+F:\Allfiles\Mod05\Labfiles\Solution\CS\DebugginAndExceptionHandling_CS\DebugginAndExceptionHandling_CS\bin\Debug\DebugginAndExceptionHandling_CS.exe
+F:\Allfiles\Mod05\Labfiles\Solution\CS\DebugginAndExceptionHandling_CS\DebugginAndExceptionHandling_CS\bin\Debug\DebugginAndExceptionHandling_CS.pdb
+F:\Allfiles\Mod05\Labfiles\Solution\CS\DebugginAndExceptionHandling_CS\DebugginAndExceptionHandling_CS\obj\Debug\DebugginAndExceptionHandling_CS.csprojResolveAssemblyReference.cache
+F:\Allfiles\Mod05\Labfiles\Solution\CS\DebugginAndExceptionHandling_CS\DebugginAndExceptionHandling_CS\obj\Debug\DebugginAndExceptionHandling_CS.exe
+F:\Allfiles\Mod05\Labfiles\Solution\CS\DebugginAndExceptionHandling_CS\DebugginAndExceptionHandling_CS\obj\Debug\DebugginAndExceptionHandling_CS.pdb
